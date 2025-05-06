@@ -1,3 +1,6 @@
+git add requirements.txt
+git commit -m "Agrega archivo de dependencias"
+git push origin main
 
 import streamlit as st
 import pandas as pd
